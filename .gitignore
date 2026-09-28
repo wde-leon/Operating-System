@@ -1,0 +1,39 @@
+# Build and binary directories
+/build/
+/bin/
+obj/
+
+# Compiled Object files
+*.o
+*.obj
+*.slo
+*.lo
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+
+# Debug files (macOS dSYM, Windows PDB)
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# IDE and OS specific files
+.vscode/
+.vs/
+*.suo
+*.user
+.DS_Store
+Thumbs.db
